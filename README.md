@@ -1,3 +1,3 @@
 # Compligenix
 
-An AI-generated SMS text messaging package
+An AI-generated SMS text messaging package [in progress]
